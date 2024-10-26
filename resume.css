@@ -39,8 +39,8 @@
 .flexdiv{
     display: flex;
     justify-content: space-between;
-    padding-bottom:10px;
     align-items: center;
+    padding-bottom:10px;
     border-bottom: 1px solid black;
     
     img{
